@@ -1,0 +1,10 @@
+@import "./base.css";
+
+
+#app{
+    width: 80vw;
+    min-height: 100vh;
+    margin: auto;
+    background-color: white;
+    
+}
